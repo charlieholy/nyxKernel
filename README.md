@@ -1,0 +1,2 @@
+# nyxKernel
+x86
